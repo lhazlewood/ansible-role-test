@@ -1,0 +1,7 @@
+---
+galaxy_info:
+  role_name: ansible-role-test
+  author: Les Hazlewood
+  description: A simple test/echo role to run for local testing
+  min_ansible_version: '2.7'
+  dependencies: []
